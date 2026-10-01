@@ -126,3 +126,21 @@ Drop your quiz answers in the comments, and I'll tell you if you got them right.
 3. "Watch a water stand balance itself": use only the first two steps (owner puts in $100, buy $50 of water). The full tally is too long for 25 s.
 
 **Title note:** Check YouTube's current advertiser-friendly guidelines on "hell" in a title before publishing. Fallback: "What Is A = L + E? (The Equation Every Business Runs On)".
+
+---
+
+## Clip map (Shorts, 20–25 s, about 55–60 spoken words each)
+
+Each clip is a section that makes sense on its own. The **banner** is on-screen text for the first 2 seconds, so the hook never depends on earlier context. Every clip ends with the standard outro card ("Follow for Accounting 101 in Plain English") and the one reusable recorded outro line.
+
+| Clip | Cut from | Banner (on-screen hook) | Notes |
+|---|---|---|---|
+| 1A | HOOK, first 3 lines | "What the hell is A = L + E?" | Stop before "Give me five minutes". About 45 words. |
+| 1B | THE HOUSE | "Your house is already an accounting equation" | Start at "Say you have a three-hundred-thousand-dollar house". Skip "You already use this at home" or keep it as the opener. About 37 words. |
+| 1C | QUIZ 1 | "$50K assets, $20K liabilities. What's the equity?" | Question, 5-second countdown, answer. Under 20 s. |
+| 1D | THE WATER STAND, first two steps | "Watch a business balance itself" | Owner puts in $100, buys $50 of water. Stop at "A hundred fifty equals fifty plus one hundred". Do not cut the full tally; it's too long. |
+| 1E | QUIZ 2 | "You pay your supplier. What happens to the equation?" | About 25 s with the countdown. |
+| 1F | R − E = NI, from "And yes, accountants used the letter E twice" | "Accountants used the letter E twice" | Needs the banner to name the two equations. About 40 words. |
+| 1G | QUIZ 3 | "$10K revenue, $7K expenses. Net income?" | About 22 s. |
+
+Not clip material: A, L AND E (85 words of definitions), THE CASCADE (needs the chart and earlier context), WHAT ACCOUNTING REALLY IS (too short, no payoff).

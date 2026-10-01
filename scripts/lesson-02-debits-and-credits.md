@@ -71,3 +71,20 @@ So: debit is left, credit is right. Every entry has both, and they always match.
 Draw the T, and you'll never get lost. [pause]
 Next lesson: your first journal entries. Buy, sell, and pay. [pause]
 Drop your quiz answers in the comments, and I'll tell you if you got them right.
+
+---
+
+## Clip map (Shorts, 20–25 s, about 55–60 spoken words each)
+
+Same rules as Lesson 1: on-screen banner for the first 2 seconds, standard outro card and recorded outro line at the end.
+
+| Clip | Cut from | Banner (on-screen hook) | Notes |
+|---|---|---|---|
+| 2A | WHY THEY SUCK | "Your bank 'credits' you. Why it's backwards." | About 49 words, strongest clip in this lesson. |
+| 2B | THE STORY + THE T-ACCOUNT, first 3 lines | "My manager kept drawing a T. I thought it was stupid." | Cut at "That's it." Trim to about 60 words. |
+| 2C | THE RULE | "The debit and credit rule that never breaks" | About 58 words. Keep the reverse-rule line only if it fits in 25 s. |
+| 2D | QUIZ 1 | "Cash goes up. Debit or credit?" | Under 15 s. |
+| 2E | EXAMPLE 1: SELL THE WATER, first four lines | "Sell a $1 bottle of water. Here's what hits the books." | Stop before "Side by side". Add that line only if it fits. |
+| 2F | QUIZ 2 | "You pay your supplier. Which account gets the debit?" | About 20 s. |
+
+Not clip material: EXAMPLE 2 (81 words, two entries, needs both), RECAP AND CLOSE (only works as the lesson's ending).
